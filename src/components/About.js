@@ -1,6 +1,6 @@
 import React from "react";
 import Common from "./Common";
-import images from "./Img/img2.png";
+import images from "../Img/img2.png";
 
 const About= ()=>{
     return(

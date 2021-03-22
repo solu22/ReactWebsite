@@ -1,9 +1,9 @@
-import web from "../src/Img/web.jpg";
-import app from "../src/Img/app.png";
-import android from "../src/Img/android.jpeg";
-import cisco from "../src/Img/cisco.jpeg";
-import digital from "../src/Img/digital.jpg";
-import software from "../src/Img/software.png";
+import web from "../Img/web.jpg";
+import app from "../Img/app.png";
+import android from "../Img/android.jpeg";
+import cisco from "../Img/cisco.jpeg";
+import digital from "../Img/digital.jpg";
+import software from "../Img/software.png";
 
 
 const Data= [
